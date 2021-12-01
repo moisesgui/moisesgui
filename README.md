@@ -1,9 +1,9 @@
-<div align="center">
+<div>
 	
 <h3> Olá! Eu sou o Moisés Guilherme 👋 </h3>
-</div><br>
+</div>
 
-<div align="center">	
+<div >	
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesguilherme/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moisesgui23/)
@@ -12,16 +12,16 @@
 [![discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail)
 </div>
 
-<div align="center">
+<div >
 	
 ![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=merko)
 <div>
-<div align="center">
+<div>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 	
-<div align="center">
+<div>
 	
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -31,7 +31,7 @@
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div><br>
 
-<div align="center">
+<div>
 	
 ![snake gif](https://github.com/moisesgui/moisesgui/blob/output/github-contribution-grid-snake.svg)	
 </div>
