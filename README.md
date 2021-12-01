@@ -16,6 +16,12 @@
 	
 ![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=highcontrast)
 <div>
+	
+<div>
+	
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+	
 <div>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
@@ -32,6 +38,9 @@
 </div><br>
 
 <div>
+
+
+
 	
 ![snake gif](https://github.com/moisesgui/moisesgui/blob/output/github-contribution-grid-snake.svg)	
 </div>
