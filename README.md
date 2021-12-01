@@ -12,12 +12,7 @@
 <div align="center">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-	
-<div align="center">
-	
-### Tecnologias
-</div>
+</div><br>
 
 <div align="center">
 	
@@ -27,13 +22,8 @@
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
-
-
-<div align="center">
+</div><br>
 	
-### Contato
-</div>
 <div align="center">	
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesguilherme/)
