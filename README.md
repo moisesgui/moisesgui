@@ -3,7 +3,7 @@
 <h3> Olá! Eu sou o Moisés Guilherme 👋 </h3>
 </div>
 
-<div >	
+<div>	
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesguilherme/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moisesgui23/)
@@ -12,10 +12,10 @@
 [![discord](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail)
 </div>
 
-<div >
+<div>
 	
 ![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=highcontrast)
-<div>
+</div>
 
 <div>
 	
