@@ -2,7 +2,13 @@
 	
 ### Olá! Eu sou o Moisés Guilherme 👋 
 </div>
+
 <br>
+
+<div align="center">
+	
+![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=merko)
+<div><br>
 
 <div align="center">
 	
@@ -12,11 +18,7 @@
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div><br>
 
 
 <div align="center">	
