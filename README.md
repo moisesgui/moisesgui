@@ -26,5 +26,4 @@
 Apaixonado por tecnologia e realizado por transformar vidas através da programação.
 
 
-
-
+![snake gif](https://github.com/moisesgui/moisesgui/blob/output/github-contribution-grid-snake.gif)
