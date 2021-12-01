@@ -1,9 +1,7 @@
 <div align="center">
 	
-### Olá! Eu sou o Moisés Guilherme 👋 
-</div>
-
-<br>
+## Olá! Eu sou o Moisés Guilherme 👋 
+</div><br>
 
 <div align="center">
 	
