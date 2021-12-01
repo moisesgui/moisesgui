@@ -14,11 +14,11 @@
 
 <div >
 	
-![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=merko)
+![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=highcontrast)
 <div>
 <div>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 	
 <div>
