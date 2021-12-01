@@ -14,7 +14,7 @@
 
 <div >
 	
-![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=cobalt2)
+![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=highcontrast)
 <div>
 <div>
 	
