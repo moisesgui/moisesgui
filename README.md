@@ -8,7 +8,16 @@
 <div align="center">
 	
 ![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesgui&show_icons=true&theme=merko)
-<div><br>
+<div>
+<div align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgui&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+	
+<div align="center">
+	
+### Tecnologias
+</div>
 
 <div align="center">
 	
@@ -18,9 +27,13 @@
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div><br>
+</div>
 
 
+<div align="center">
+	
+### Contato
+</div>
 <div align="center">	
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesguilherme/)
